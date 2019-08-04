@@ -9,10 +9,10 @@ public class Controle_ex8 {
 		Scanner entrada = new Scanner(System.in);
 		
 		float n1 = 0,n2 = 0,media = 0;
-		System.out.print("Escreva um numero: ");
+		System.out.print("Escreva uma nota: ");
 		n1 = entrada.nextFloat();
 		
-		System.out.print("Escreva outro numero: ");
+		System.out.print("Escreva outra nota: ");
 		n2 = entrada.nextFloat();
 		
 		media = (n1+n2)/2;
